@@ -5,7 +5,7 @@
 ### 需要用到的程式語言、套件與其版本：</br>
 Python >= 3.4</br>
 Selenium</br>
-PhantomJS (Web driver)</br>
+PhantomJS</br>
 PyQt4</br>
 PIL</br>
 datetime</br>
