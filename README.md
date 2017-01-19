@@ -10,7 +10,7 @@ PyQt4</br>
 PIL</br>
 datetime</br>
 json</br></br>
-註：需要自行下載 PhantomJS 這個 headless browser，然後與主程式放在同一個資料夾即可（不需要先啟動它），它能讓您執行訂票程式時在背景靜靜地啟動瀏覽器而不會開啟視窗。下載網址：http://phantomjs.org/<br></br>
+註：需要自行下載 PhantomJS 這個 headless browser，然後與主程式放在同一個資料夾即可（不需要先啟動它），它能讓您執行訂票程式時在背景靜靜地啟動瀏覽器而不會開啟視窗。可至官網下載：http://phantomjs.org/<br></br>
 ### 應用程式功能展示：
 
 1. <strong>訂票成功</strong></br></br>
