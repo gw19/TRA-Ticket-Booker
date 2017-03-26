@@ -14,7 +14,7 @@ json</br></br>
 ### 應用程式功能展示：
 
 1. <strong>訂票成功</strong></br></br>
- ![image] (https://github.com/gw19/TRA-Ticket-Booker/blob/master/screenshots/Ticket_Successful.gif)</br></br></br>
+ ![image] (https://raw.githubusercontent.com/gw19/TRA-Ticket-Booker/master/screenshots/Ticket_Successful.gif)</br></br></br>
  
 2. <strong>票已售完</strong></br></br>
  ![image] (https://github.com/gw19/TRA-Ticket-Booker/blob/master/screenshots/Ticket_Sold_Out.gif)</br></br></br>
