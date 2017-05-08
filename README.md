@@ -14,13 +14,13 @@ json</br></br>
 ### 應用程式功能展示：
 
 1. <strong>訂票成功</strong></br></br>
- ![image] (https://github.com/gw19/TRA-Ticket-Booker/blob/master/screenshots/Ticket_Successful.gif)</br></br></br>
+ ![ticket_successful](https://cloud.githubusercontent.com/assets/24193072/25806338/6b5c4960-3435-11e7-9bdc-c3f3b6c1e24d.gif)</br></br></br>
  
 2. <strong>票已售完</strong></br></br>
- ![image] (https://github.com/gw19/TRA-Ticket-Booker/blob/master/screenshots/Ticket_Sold_Out.gif)</br></br></br>
+ ![ticket_sold_out](https://cloud.githubusercontent.com/assets/24193072/25806374/87de7ae0-3435-11e7-9005-4c42272cb924.gif)</br></br></br>
 
 3. <strong>認證碼輸入錯誤</strong></br></br>
- ![image] (https://github.com/gw19/TRA-Ticket-Booker/blob/master/screenshots/Auth_Num_Error.gif)</br></br></br>
+ ![id_error](https://cloud.githubusercontent.com/assets/24193072/25806416/a8ecc9bc-3435-11e7-82f3-c38e16c03293.gif)</br></br></br>
  
 4. <strong>身份證字號輸入錯誤</strong></br></br>
- ![image] (https://github.com/gw19/TRA-Ticket-Booker/blob/master/screenshots/ID_Error.gif)</br></br></br>
+ ![auth_num_error](https://cloud.githubusercontent.com/assets/24193072/25806467/dc07f416-3435-11e7-8c9a-8ed3ca3596f9.gif)</br></br></br>
