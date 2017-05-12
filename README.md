@@ -20,7 +20,7 @@ json</br></br>
  ![ticket_sold_out](https://cloud.githubusercontent.com/assets/24193072/25806374/87de7ae0-3435-11e7-9005-4c42272cb924.gif)</br></br></br>
 
 3. <strong>認證碼輸入錯誤</strong></br></br>
- ![id_error](https://cloud.githubusercontent.com/assets/24193072/25806416/a8ecc9bc-3435-11e7-82f3-c38e16c03293.gif)</br></br></br>
+ ![auth_num_error](https://cloud.githubusercontent.com/assets/24193072/25806467/dc07f416-3435-11e7-8c9a-8ed3ca3596f9.gif)</br></br></br>
  
 4. <strong>身份證字號輸入錯誤</strong></br></br>
- ![auth_num_error](https://cloud.githubusercontent.com/assets/24193072/25806467/dc07f416-3435-11e7-8c9a-8ed3ca3596f9.gif)</br></br></br>
+ ![id_error](https://cloud.githubusercontent.com/assets/24193072/25806416/a8ecc9bc-3435-11e7-82f3-c38e16c03293.gif)</br></br></br>
