@@ -1307,7 +1307,7 @@ class TraTicketBooker(QtGui.QDialog):
                 )
         
 def main():
-    # This is a very impoetant solution 
+    # This is a very important solution 
     # for the problem in the IPython console.
     app_main = 0
     # ---------------------------------------------------------------------- #
