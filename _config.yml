@@ -2,4 +2,4 @@ title: TRA-Ticket-Booker
 description: 台灣鐵路訂票應用程式（臺鐵 / 台鐵 / 訂單程票 / 訂來回票），基於 Selenium + PyQt4。 
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
